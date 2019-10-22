@@ -40,7 +40,7 @@
 * `username` : github 用户名( 小写 ), `:memo:` 是 markdown 中表情符号的表达式,其最终会被转义成符号 : 📝
 
 
-> 更多 markdown 表情符号请参考 : [学习笔记](https://github.com/YUbuntu0109/YUbuntu0109.github.io/blob/HexoBackup/source/_posts/GitHub%E4%B8%ADemoji%E8%A1%A8%E6%83%85%E7%9A%84%E5%90%AB%E4%B9%89%E5%8F%8A%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83.md), 更多 github 提交信息规范请参考 : [学习笔记](https://github.com/YUbuntu0109/YUbuntu0109.github.io/blob/HexoBackup/source/_posts/Git-Commit-Message-%E8%A7%84%E8%8C%83.md)
+> 更多 markdown 表情符号使用规范请参考 : [学习笔记](https://github.com/YUbuntu0109/YUbuntu0109.github.io/blob/HexoBackup/source/_posts/GitHub%E4%B8%ADemoji%E8%A1%A8%E6%83%85%E7%9A%84%E5%90%AB%E4%B9%89%E5%8F%8A%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83.md), 更多 github 提交信息规范请参考 : [学习笔记](https://github.com/YUbuntu0109/YUbuntu0109.github.io/blob/HexoBackup/source/_posts/Git-Commit-Message-%E8%A7%84%E8%8C%83.md)
 
 
 
